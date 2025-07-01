@@ -47,13 +47,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <table>
     <tbody>
         <tr>
-        <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+            <td align="center">
+                <a href="https://github.com/Vaibhavkumar-tech">
+                    <img src="https://avatars.githubusercontent.com/u/116993691?v=4" width="100px;"
+                        alt="Vaibhav Kumar" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Vaibhav Kumar</b>
                     </sub>
                 </a>
             </td>
@@ -1770,7 +1770,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/pranavashish">
-                    <img src="https://avatars.githubusercontent.com/u/51030846?v=4" width="100px;"
+                    <img src="https://avatars.githubusercontent.com/u/51030846?v=4" width="
                         alt="Pranav Ashish" />
                     <br />
                     <sub>
